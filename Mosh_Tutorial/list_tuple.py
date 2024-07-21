@@ -30,18 +30,23 @@ matrix = [
 ]
 
 
-print(matrix)
+# print(matrix)
 
-print(matrix[0])
-print(matrix[0][1])
+# print(matrix[0])
+# print(matrix[0][1])
 
-print("Remove Duplicates from the list")
+# print("Remove Duplicates from the list")
 
-numbers =[2,3,4,2,5,6,4,]
-unique =[]
+# numbers =[2,3,4,2,5,6,4,]
+# unique =[]
 
-for number in numbers:
-    if number not in unique:
-        unique.append(number)
+# for number in numbers:
+#     if number not in unique:
+#         unique.append(number)
 
-print(unique)
+# print(unique)
+
+
+#------------------------------------------Tuple-------------------------------------#
+
+
