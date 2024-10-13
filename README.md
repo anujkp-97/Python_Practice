@@ -1,4 +1,4 @@
-We are developing 100 projects in 100 days.
+
 Here are the names and descriptions of the projects:-
 
 Project-1: Band Generator 
